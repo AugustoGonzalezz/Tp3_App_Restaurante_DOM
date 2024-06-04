@@ -1,6 +1,6 @@
 //conecto con el archivo json
 //fetch('UBICACION - puede ser local o remoto')
-fetch('/json/restaurantes.json')
+fetch('json/restaurantes.json')
 //espero respuesta
 .then(response => {
     //almacena los datos obtenidos convertidos a json
