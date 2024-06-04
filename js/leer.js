@@ -1,0 +1,1 @@
+fetch('../js/restaurantes.json');
