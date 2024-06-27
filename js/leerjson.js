@@ -10,13 +10,14 @@ fetch('json/restaurantes.json')
     // utilizamos una variable, en ésta oportunidad ocupamos el nombre DATA
     // alt + 96 comilla invertida ``
 .then(data => {
-  console.log(data[1].name)
-  console.log(data[1].platos[0].titulo)
-  
-   
+ 
     for (let i=0; i < 18; i++){
+
+      let tarjeta = document.createElement("a")
+      tarjeta.classList.add("resto")
+      
         document.querySelector('.restaurantes').innerHTML += /*HTML*/  `
-        <a class="resto" href="resto.html">
+        <a class="resto" href="">
                 <div class="imagen_resto">
                     <img src="${data[i].avatar.src}" alt="${data[i].avatar.alt}" height="100%" width="100%"  style="object-fit: cover;">
                 </div>
@@ -40,9 +41,25 @@ fetch('json/restaurantes.json')
                     </div>
                 </div>
                 <div class="puntuacion">${data[i].puntuacion}</div>
+                
         </a>`   
+
+        let ojo = document.querySelectorAll(".resto")
+
+        ojo[i].addEventListener("click", function () {
+            let idtarjeta = data[i].truck_id
+                         //almaceno en CACHÉ la variable indiceCache el valor de idRestauranteSeleccionado
+            localStorage.setItem("indiceCache", idtarjeta);
+            console.log(idRestauranteSeleccionado)
+        });
+         
+    
     }
+
+
+    
 })
+
 
 // .then(plato => {
 //     console.log(plato[1].name)
