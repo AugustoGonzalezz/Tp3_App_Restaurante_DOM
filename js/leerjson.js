@@ -29,13 +29,13 @@ fetch('json/restaurantes.json')
                     </h5>
                     <div class="precio_val">
                         <div class="valoracion verde_txt">
-                            <i class="iconos f16">${data[i].puntuacion}</i>
+                        ${`<i class="iconos f16">star</i>`.repeat(data[i].estrellas)}
+                        ${`<i class="iconos f16 gris_txt">star</i>`.repeat(5 - data[i].estrellas)}
                             (89)
                         </div>
                         <div class="precio verde_txt">
-                            <i class="iconos">attach_money</i>
-                            <i class="iconos">attach_money</i>
-                            <i class="iconos gris_txt">attach_money</i>
+                        ${`<i class="iconos">attach_money</i>`.repeat(data[i].rango)}
+                        ${`<i class="iconos gris_txt">attach_money</i>`.repeat(3 - data[i].rango)}
                         </div>
                     </div>
                 </div>

@@ -21,6 +21,7 @@
     "direccion": "Mendoza - San Rafael 2024",
     "horario": "9:00 - 23hs",
     "puntuacion": "5.0",
+    "estrellas": "5",
     "rango": "3",
     "comentarios": "20"
   },
@@ -46,6 +47,7 @@
     "direccion": "Panamericana 46,5Km - Del Viso",
     "horario": "9:00 - 23hs",
     "puntuacion": "5.0",
+    "estrellas": "5",
     "rango": "3",
     "comentarios": "20",
     "platos": [
@@ -94,6 +96,7 @@
     "direccion": "1/240 Stafford Rd, Stafford QLD 4053, Australia",
     "horario": "12:00 - 9hs.",
     "puntuacion": "4.6",
+    "estrellas": "4",
     "rango": "3",
     "comentarios": "20"
   },
@@ -119,7 +122,8 @@
     "direccion": "",
     "horario": "",
     "puntuacion": "4.9",
-    "rango": "",
+    "estrellas": "4",
+    "rango": "2",
     "comentarios": "20",
     "platos": [
       {
@@ -163,7 +167,8 @@
     "direccion": "",
     "horario": "",
     "puntuacion": "4",
-    "rango": "",
+    "estrellas": "1",
+    "rango": "3",
     "comentarios": "20"
   },
   {
@@ -188,7 +193,8 @@
     "direccion": "",
     "horario": "",
     "puntuacion": "",
-    "rango": "",
+    "estrellas": "2",
+    "rango": "2",
     "comentarios": "20"
   },
   {
@@ -213,7 +219,8 @@
     "direccion": "",
     "horario": "",
     "puntuacion": "",
-    "rango": "",
+    "estrellas": "4",
+    "rango": "1",
     "comentarios": "20"
   },
   {
@@ -238,7 +245,8 @@
     "direccion": "",
     "horario": "",
     "puntuacion": "",
-    "rango": "",
+    "estrellas": "5",
+    "rango": "3",
     "comentarios": "20"
   },
   {
@@ -263,7 +271,8 @@
     "direccion": "",
     "horario": "",
     "puntuacion": "",
-    "rango": "",
+    "estrellas": "4",
+    "rango": "2",
     "comentarios": "20"
   },
   {
@@ -288,7 +297,8 @@
     "direccion": "",
     "horario": "",
     "puntuacion": "",
-    "rango": "",
+    "estrellas": "3",
+    "rango": "1",
     "comentarios": "20"
   },
   {
@@ -313,7 +323,8 @@
     "direccion": "",
     "horario": "",
     "puntuacion": "",
-    "rango": "",
+    "estrellas": "4",
+    "rango": "3",
     "comentarios": "20"
   },
   {
@@ -338,7 +349,8 @@
     "direccion": "",
     "horario": "",
     "puntuacion": "",
-    "rango": "",
+    "estrellas": "5",
+    "rango": "2",
     "comentarios": "20"
   },
   {
@@ -363,7 +375,8 @@
     "direccion": "",
     "horario": "",
     "puntuacion": "",
-    "rango": "",
+    "estrellas": "4",
+    "rango": "1",
     "comentarios": "20"
   },
   {
@@ -388,7 +401,8 @@
     "direccion": "",
     "horario": "",
     "puntuacion": "",
-    "rango": "",
+    "estrellas": "5",
+    "rango": "3",
     "comentarios": "20"
   },
   {
@@ -413,7 +427,8 @@
     "direccion": "",
     "horario": "",
     "puntuacion": "",
-    "rango": "",
+    "estrellas": "2",
+    "rango": "2",
     "comentarios": "20"
   },
   {
@@ -438,7 +453,8 @@
     "direccion": "",
     "horario": "",
     "puntuacion": "",
-    "rango": "",
+    "estrellas": "1",
+    "rango": "1",
     "comentarios": "20"
   },
   {
@@ -463,7 +479,8 @@
     "direccion": "",
     "horario": "",
     "puntuacion": "",
-    "rango": "",
+    "estrellas": "4",
+    "rango": "2",
     "comentarios": "20"
   },
   {
@@ -488,7 +505,8 @@
     "direccion": "",
     "horario": "",
     "puntuacion": "",
-    "rango": "",
+    "estrellas": "5",
+    "rango": "3",
     "comentarios": "20"
   },
   {
