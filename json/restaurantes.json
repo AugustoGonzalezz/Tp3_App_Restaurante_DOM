@@ -20,10 +20,34 @@
     "twitter_handle": "kingofthewings1",
     "direccion": "Mendoza - San Rafael 2024",
     "horario": "9:00 - 23hs",
+    "delivery": "Con delivery",
     "puntuacion": "5.0",
     "estrellas": "5",
     "rango": "3",
-    "comentarios": "20"
+    "comentarios": "20",
+    "platos": [
+      {
+        "id_plato": "1",
+        "src": "https://elcordillerano1.cdn.net.ar/252/elcordillerano/images/01/17/05/1170526_02c464a5989c3eac47872e16fa47396551c7f8da872acc240369448db3c13dee/lg.webp",
+        "titulo": "Plato 1",
+        "descripcion": "asdasd",
+        "precio": "1"
+      },
+      {
+        "id_plato": "2",
+        "src": "https://images.rappi.com.ar/restaurants_background/hamburguesas02-1663781167816.jpg",
+        "titulo": "Plato 2",
+        "descripcion": "gsagasg",
+        "precio": "2"
+      },
+      {
+        "id_plato": "3",
+        "src": "https://www.bnefoodtrucks.com.au/sites/foodtrucks/files/styles/avatarlarge/public/images/Koma%20Sliders/redkomalogoolaf_0.jpg?itok=1Er2gbGN",
+        "titulo": "Plato 3",
+        "descripcion": "",
+        "precio": ""
+      }
+    ]
   },
   {
     "truck_id": "67",
@@ -46,6 +70,7 @@
     "twitter_handle": "kingofthewings1",
     "direccion": "Panamericana 46,5Km - Del Viso",
     "horario": "9:00 - 23hs",
+    "delivery": "Con delivery",
     "puntuacion": "5.0",
     "estrellas": "5",
     "rango": "3",
@@ -95,6 +120,7 @@
     "twitter_handle": "kingofthewings1",
     "direccion": "1/240 Stafford Rd, Stafford QLD 4053, Australia",
     "horario": "12:00 - 9hs.",
+    "delivery": "Sin delivery",
     "puntuacion": "4.6",
     "estrellas": "4",
     "rango": "3",
@@ -121,6 +147,7 @@
     "twitter_handle": "komasliders",
     "direccion": "",
     "horario": "",
+    "delivery": "Con delivery",
     "puntuacion": "4.9",
     "estrellas": "4",
     "rango": "2",
@@ -166,6 +193,7 @@
     "twitter_handle": "",
     "direccion": "",
     "horario": "",
+    "delivery": "Sin delivery",
     "puntuacion": "4",
     "estrellas": "1",
     "rango": "3",
@@ -192,7 +220,8 @@
     "twitter_handle": "RSPizzaQLD",
     "direccion": "",
     "horario": "",
-    "puntuacion": "",
+    "delivery": "Con delivery",
+    "puntuacion": "3",
     "estrellas": "2",
     "rango": "2",
     "comentarios": "20"
@@ -218,7 +247,8 @@
     "twitter_handle": "",
     "direccion": "",
     "horario": "",
-    "puntuacion": "",
+    "delivery": "Sin delivery",
+    "puntuacion": "4",
     "estrellas": "4",
     "rango": "1",
     "comentarios": "20"
@@ -244,7 +274,8 @@
     "twitter_handle": "rubyicecreamvan",
     "direccion": "",
     "horario": "",
-    "puntuacion": "",
+    "delivery": "Sin delivery",
+    "puntuacion": "1",
     "estrellas": "5",
     "rango": "3",
     "comentarios": "20"
@@ -270,7 +301,8 @@
     "twitter_handle": "",
     "direccion": "",
     "horario": "",
-    "puntuacion": "",
+    "delivery": "Sin delivery",
+    "puntuacion": "5",
     "estrellas": "4",
     "rango": "2",
     "comentarios": "20"
@@ -296,7 +328,8 @@
     "twitter_handle": "TheBunMobile",
     "direccion": "",
     "horario": "",
-    "puntuacion": "",
+    "delivery": "Sin delivery",
+    "puntuacion": "4",
     "estrellas": "3",
     "rango": "1",
     "comentarios": "20"
@@ -322,7 +355,8 @@
     "twitter_handle": "",
     "direccion": "",
     "horario": "",
-    "puntuacion": "",
+    "delivery": "Sin delivery",
+    "puntuacion": "2",
     "estrellas": "4",
     "rango": "3",
     "comentarios": "20"
@@ -348,7 +382,8 @@
     "twitter_handle": "howwerollsbne ",
     "direccion": "",
     "horario": "",
-    "puntuacion": "",
+    "delivery": "No disponible",
+    "puntuacion": "4",
     "estrellas": "5",
     "rango": "2",
     "comentarios": "20"
@@ -374,7 +409,8 @@
     "twitter_handle": "rollsphomi",
     "direccion": "",
     "horario": "",
-    "puntuacion": "",
+    "delivery": "No disponible",
+    "puntuacion": "4",
     "estrellas": "4",
     "rango": "1",
     "comentarios": "20"
@@ -400,7 +436,8 @@
     "twitter_handle": "juicepower1",
     "direccion": "",
     "horario": "",
-    "puntuacion": "",
+    "delivery": "No disponible",
+    "puntuacion": "2",
     "estrellas": "5",
     "rango": "3",
     "comentarios": "20"
@@ -426,7 +463,8 @@
     "twitter_handle": "cone_queen",
     "direccion": "",
     "horario": "",
-    "puntuacion": "",
+    "delivery": "No disponible",
+    "puntuacion": "1",
     "estrellas": "2",
     "rango": "2",
     "comentarios": "20"
@@ -452,7 +490,8 @@
     "twitter_handle": "",
     "direccion": "",
     "horario": "",
-    "puntuacion": "",
+    "delivery": "No disponible",
+    "puntuacion": "1",
     "estrellas": "1",
     "rango": "1",
     "comentarios": "20"
@@ -478,8 +517,9 @@
     "twitter_handle": "",
     "direccion": "",
     "horario": "",
-    "puntuacion": "",
-    "estrellas": "4",
+    "delivery": "No disponible",
+    "puntuacion": "3",
+    "estrellas": "2.5",
     "rango": "2",
     "comentarios": "20"
   },
@@ -504,7 +544,8 @@
     "twitter_handle": "abbioccotruck",
     "direccion": "",
     "horario": "",
-    "puntuacion": "",
+    "delivery": "No disponible",
+    "puntuacion": "2.5",
     "estrellas": "5",
     "rango": "3",
     "comentarios": "20"
