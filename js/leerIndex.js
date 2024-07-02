@@ -13,13 +13,14 @@ fetch("json/restaurantes.json")
             let cartaRestaurante = document.createElement("a");
             cartaRestaurante.classList.add("resto");
             cartaRestaurante.setAttribute("href", "resto.html")
-
+            //ESTO EN IMAGEN RESTO height="100%" width="100%"  style="object-fit: cover;"
             // almaceno en la variable cartaRestaurante.id el valor de i del restaurante.truck_id
             cartaRestaurante.id = restaurante.truck_id;
             cartaRestaurante.innerHTML = /*html*/ `
                     
                 <div class="imagen_resto">
-                    <img src="${data[i].avatar.src}" alt="${data[i].avatar.alt}" height="100%" width="100%"  style="object-fit: cover;">
+                    <img src="${data[i].avatar.src}" alt="${data[i].avatar.alt}" >
+                    
                 </div>
 
                 <div class="desc_resto">
@@ -32,7 +33,7 @@ fetch("json/restaurantes.json")
                         <div class="valoracion verde_txt">
                         ${`<i class="iconos f16">star</i>`.repeat(data[i].estrellas)}
                         ${`<i class="iconos f16 gris_txt">star</i>`.repeat(5 - data[i].estrellas)}
-                            (89)
+                            (${data[i].comentarios})
                         </div>
                         <div class="precio verde_txt">
                         ${`<i class="iconos">attach_money</i>`.repeat(data[i].rango)}

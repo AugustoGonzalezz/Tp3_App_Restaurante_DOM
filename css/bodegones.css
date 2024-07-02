@@ -456,6 +456,7 @@ nav.menuinferior{
                     height: 100px;
                     width: 100px;
                     border-radius: 50%;
+                    object-fit: scale-down;
                 }
 
                 .precio_plato{
