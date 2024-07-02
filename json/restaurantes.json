@@ -173,7 +173,7 @@
         "id_plato": "1",
         "src": "/img/plato2.jpg",
         "titulo": "Plato 1",
-        "descripcion": "Ensalada de tomate, aceituna negra, cebolla morada y salsa negra.",
+        "descripcion": "Ensalada de tomate, aceituna negra, cebolla morada y salsa.",
         "precio": "99"
       },
       {
@@ -224,6 +224,64 @@
         "titulo": "Plato 8",
         "descripcion": "Hamburguesa con queso, tomate y lechugas. Agregado de papas fritas.",
         "precio": "99"
+      }
+    ],
+    "resenias":[
+      {
+        "id_resenia": "1",
+        "src":"https://randomuser.me/api/portraits/women/9.jpg",
+        "persona": "Pepita Josita",
+        "descripcion": "Bancan chat?",
+        "calificacion": "5 "
+      },
+      {
+        "id_resenia": "2",
+        "src":"https://randomuser.me/api/portraits/women/99.jpg",
+        "persona": "Estefania Romana",
+        "descripcion": "No se",
+        "calificacion": "4.5 "
+      },
+      {
+        "id_resenia": "3",
+        "src":"https://randomuser.me/api/portraits/women/4.jpg",
+        "persona": "Almendra Rojas",
+        "descripcion": "ME ENCANTA.",
+        "calificacion": "5 "
+      },
+      {
+        "id_resenia": "4",
+        "src":"https://randomuser.me/api/portraits/women/66.jpg",
+        "persona": "Pepita Josita",
+        "descripcion": "BUENISIMA.",
+        "calificacion": "5 "
+      },
+      {
+        "id_resenia": "5",
+        "src":"https://randomuser.me/api/portraits/men/99.jpg",
+        "persona": "Pepita Josita",
+        "descripcion": "BUENISIMA.",
+        "calificacion": "5 "
+      },
+      {
+        "id_resenia": "6",
+        "src":"https://randomuser.me/api/portraits/men/4.jpg",
+        "persona": "Hinquen Tanchi",
+        "descripcion": "我不能吃狗",
+        "calificacion": "5 "
+      },
+      {
+        "id_resenia": "7",
+        "src":"https://randomuser.me/api/portraits/men/66.jpg",
+        "persona": "Pepita Josita",
+        "descripcion": "BUENISIMA.",
+        "calificacion": "5 "
+      },
+      {
+        "id_resenia": "8",
+        "src":"https://randomuser.me/api/portraits/men/29.jpg",
+        "persona": "Pepita Josita",
+        "descripcion": "BUENISIMA.",
+        "calificacion": "5 "
       }
     ]
   },
@@ -323,7 +381,7 @@
         "id_resenia": "2",
         "src":"https://randomuser.me/api/portraits/women/99.jpg",
         "persona": "Estefania Romana",
-        "descripcion": "Me parecio una buena atencion y sobre todo un buen lugar para pasar el rato, pero no quiero que queden tan bien por eso la puntuacion.",
+        "descripcion": "No se",
         "calificacion": "4.5 "
       },
       {
@@ -459,7 +517,7 @@
         "id_resenia": "1",
         "src":"https://randomuser.me/api/portraits/women/9.jpg",
         "persona": "Pepita Josita",
-        "descripcion": "Me encanto la atencion, sobre todo que me atiendan con la dueña del local, nunca imagine que sea una mishi !!",
+        "descripcion": "piola",
         "calificacion": "5 "
       },
       {
